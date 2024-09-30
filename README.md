@@ -6,12 +6,12 @@ their knowledge, time management, better preparation for
 exams. **
 
 Features of this project: 
-Login and Register Page
-User Profile
-Home Page
-Subject and Topic Selection
-Exam features
-Leaderboard
+Login and Register Page,
+User Profile,
+Home Page,
+Subject and Topic Selection,
+Exam features,
+Leaderboard,
 
 I have mainly used Javascript along with Html and Css. 
 Firebase is used for authentication and database for storing the user data. 
