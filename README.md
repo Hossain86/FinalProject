@@ -5,7 +5,7 @@ profiles, real-time quiz simulations, and instant feedback, helping users improv
 their knowledge, time management, and decision-making skills in preparation for 
 exams. **
 
-I have mainly used Javascript along with Html and Css.
+I have mainly used Javascript along with Html and Css. Firebase is used for authentication and database for storing the user data. 
 
 ![Screenshot 2024-09-10 2](https://github.com/user-attachments/assets/fcb96961-aa2e-4e03-8dff-5b752cd95627)
 
