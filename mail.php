@@ -7,8 +7,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $message = $data['message'];
 
     // Email content
-    $to = 'developer@example.com';
-    $subject = 'New Contact Form Submission';
+    $to = 'mdmikat626@gmail.com';
+    $subject = 'New Contact Form Submission of The Ultimate Exam App';
     $body = "Name: $name\nEmail: $email\nMessage: $message";
     $headers = "From: $email";
 
